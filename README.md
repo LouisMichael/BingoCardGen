@@ -14,7 +14,7 @@ ref: https://pillow.readthedocs.io/en/stable/handbook/text-anchors.html#text-anc
 - Do some math to get how big each size each number is as a picture
 - Put that pictures into a board so the center of the picture is the center of the grid space
 
-![image of 8.5x11 paper broken into 4x5 boxes](Images\PageLayout.PNG)
+![image of 8.5x11 paper broken into 4x5 boxes](.\Images\PageLayout.PNG)
 
 
 
